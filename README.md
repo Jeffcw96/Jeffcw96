@@ -1,8 +1,25 @@
 <!-- optional: a clean header / intro line -->
+<div align="center">
+  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXpscXduMXVobmFiM3NmbDRpaTFxaDltaG4ydjV1eTBnMGE4eGQ0aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif"  />
+</div>
+
+
 ### Hi, I’m Jeff 👋
 
 I’m a software engineer with interest in **Fullstack development, solution architect and AI**.  
 I build things, contribute to open source, and learn constantly.
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jeffcw96&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jeffcw96&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=jeffcw96&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Jeffcw96.Jeffcw96)
 
 ---
 
@@ -22,18 +39,6 @@ I build things, contribute to open source, and learn constantly.
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-
-
----
-
-## 📈 GitHub Stats
-
-<!-- these are dynamic stats badges you can embed -->
-[![Jeff’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeffcw96&show_icons=true&theme=transparent&hide_border=true)](https://github.com/Jeffcw96)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffcw96&layout=compact&theme=transparent&hide_border=true)](https://github.com/Jeffcw96)
-
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Jeffcw96.Jeffcw96)
 
 ---
 
